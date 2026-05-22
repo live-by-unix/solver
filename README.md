@@ -41,7 +41,7 @@ And instantly get:
 
 ### 1. Save the script
 
-Save the unified script as:
+Save the script as:
 
 ```
 ~/bin/solver
